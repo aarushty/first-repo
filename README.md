@@ -1,2 +1,2 @@
 # first-repo
-fortnite battle_pass
+this is the first repo of mines
